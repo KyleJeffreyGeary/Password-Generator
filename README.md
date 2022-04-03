@@ -27,3 +27,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## Screenshot
 ![Password Generator](https://user-images.githubusercontent.com/98886625/161450990-a51558e4-b295-4eb1-9c9b-0c3bd0fdc14a.png)
+
+## Deployed Page
+Page Published at: https://kylejeffreygeary.github.io/Password-Generator/
+Git Hub Repo: https://github.com/KyleJeffreyGeary/Password-Generator
